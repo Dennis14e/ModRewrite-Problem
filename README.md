@@ -10,5 +10,5 @@ Der Ordner `karten` liegt bei mir direkt im root verzeichnis vom Webserver
 tl;dr
 -----------
 
-`localhost/karten/gastgewerbe/landenberg` sollte auf `localhost/karten/gastgewerbe/landenberg/` weiterleiten  
-`localhost/karten/gastgewerbe/krone` sollte auf `localhost/karten/gastgewerbe/krone/` weiterleiten
+`localhost/karten/gastgewerbe/landenberg` soll `localhost/karten/gastgewerbe/landenberg/` weiterleiten  
+`localhost/karten/gastgewerbe/krone` soll `localhost/karten/gastgewerbe/krone/` weiterleiten
