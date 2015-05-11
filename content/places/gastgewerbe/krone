@@ -1,0 +1,19 @@
+<?php
+$titel                              = "Restaurant Krone";
+$oeffnungszeitenmontag              = "";
+$oeffnungszeitendienstag            = "";
+$oeffnungszeitenmittwoch            = "";
+$oeffnungszeitendonnerstag          = "";
+$oeffnungszeitenfreitag             = "";
+$oeffnungszeitensamstag             = "";
+$oeffnungszeitensonntag             = "";
+$webseite                           = "";
+$email                              = "";
+$anschrift1                         = "Restaurant Krone";
+$anschrift2                         = "Barbara Bärtschi";
+$anschrift3 /* Strasse */           = "Neubrunn 732";
+$anschrift4 /* PLZ und Ort */       = "8488 Turbenthal";
+$telefon                            = "052 385 12 79";
+$lat                                = "47.440536923452";
+$lng                                = "8.894744217395782";
+?>

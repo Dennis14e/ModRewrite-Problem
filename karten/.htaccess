@@ -1,0 +1,5 @@
+RewriteEngine on
+RewriteBase /karten/
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule ^([^/]*)/([^/]*)/?$ places.php?kategorie=$1&name=$2

@@ -1,0 +1,19 @@
+<?php
+$titel                              = "Restaurant Landenberg";
+$oeffnungszeitenmontag              = "Geschlossen";
+$oeffnungszeitendienstag            = "00:08 - 00:23 Uhr";
+$oeffnungszeitenmittwoch            = "00:08 - 00:23 Uhr";
+$oeffnungszeitendonnerstag          = "00:08 - 00:23 Uhr";
+$oeffnungszeitenfreitag             = "00:08 - 00:23 Uhr";
+$oeffnungszeitensamstag             = "00:08 - 00:23 Uhr";
+$oeffnungszeitensonntag             = "00:08 - 00:23 Uhr";
+$webseite                           = "r-landenberg.ch";
+$email                              = "";
+$anschrift1                         = "Restaurant Pizzeria Landenberg";
+$anschrift2                         = "Vesel Veseli";
+$anschrift3 /* Strasse */           = "Tösstalstrasse 88";
+$anschrift4 /* PLZ und Ort */       = "8488 Turbenthal";
+$telefon                            = "052 385 50 50";
+$lat                                = "47.43569479967739";
+$lng                                = "8.847172558307648";
+?>
